@@ -55,14 +55,14 @@
 			<plugin>
                                 <groupId>org.apache.maven.plugins</groupId>
                                 <artifactId>maven-compiler-plugin</artifactId>
-                                <version>3.6.3</version>
+                                <version>3.6.1</version>
                            <configuration>
                              <source>1.8</source>
                              <target>1.8</target>
 		             <release>8</release>
                              <verbose>true</verbose>		   
-                          </configuration>
-                      </plugin>
+                           </configuration>
+                        </plugin>
 		</plugins>
 		       
 	</build>
